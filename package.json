@@ -1,5 +1,5 @@
 {   
-  "start": "node index.js",
+  "scripts": {"start": "node index.js"},
   "name": "deliveroo-backend",
   "version": "1.0.0",
   "main": "index.js",
